@@ -17,7 +17,7 @@ Rolling Ball is a Platformer Game mixed with elements of an Endless Runner! It w
 
 ## 🎮 Play the Game
 
-You can play the game by going to the [GitHub Pages link](https://1097880.github.io/prg04-eindopdracht/).
+You can play the game by going to the [GitHub Pages link](https://semmetje11lolly.github.io/prg04-eindopdracht/).
 
 
 ## 🌐 Run Locally

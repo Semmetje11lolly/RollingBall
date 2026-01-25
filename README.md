@@ -17,7 +17,7 @@ Rolling Ball is a Platformer Game mixed with elements of an Endless Runner! It w
 
 ## 🎮 Play the Game
 
-You can play the game by going to the [GitHub Pages link](https://semmetje11lolly.github.io/RollingBall/).
+You can play the game by going to the [GitHub Pages link](https://semvde.github.io/RollingBall/).
 
 
 ## 🌐 Run Locally
@@ -27,7 +27,7 @@ If you wish the run the game locally, you can follow these steps:
 1. Clone the project
 
 ```bash
-  git clone https://github.com/Semmetje11lolly/RollingBall.git
+  git clone https://github.com/semvde/RollingBall.git
 ```
 
 2. Go to the project directory
